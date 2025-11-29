@@ -1,3 +1,9 @@
 # DJxHack25-HandPhysioTherapy
-Full gameplay - https://youtu.be/rIe6RlOnPos?si=Dbl_G0vlvImGTl-P
-Submission trailer (edited, directed, written by me) - https://youtu.be/IEw8h1Pe3Dg?si=tzdivvlcRui61-Yv
+
+## Full Gameplay
+
+[![Watch the video](https://img.youtube.com/vi/rIe6RlOnPos/hqdefault.jpg)](https://www.youtube.com/watch?v=rIe6RlOnPos)
+
+## Submission Trailer
+
+[![Watch the video](https://img.youtube.com/vi/IEw8h1Pe3Dg/hqdefault.jpg)](https://www.youtube.com/watch?v=IEw8h1Pe3Dg)
