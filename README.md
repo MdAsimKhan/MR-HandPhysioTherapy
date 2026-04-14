@@ -1,5 +1,5 @@
 # DJxHack25-HandPhysioTherapy
-
+A Mixed Reality healthcare app to rehabitilate arms of a concerned paitent using simple MR games that combine the real world context with AR.
 ## Full Gameplay
 
 [![Watch the video](https://img.youtube.com/vi/rIe6RlOnPos/hqdefault.jpg)](https://www.youtube.com/watch?v=rIe6RlOnPos)
