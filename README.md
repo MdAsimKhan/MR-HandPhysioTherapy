@@ -1,4 +1,4 @@
-# MR5-HandPhysioTherapy
+# MR-HandPhysioTherapy
 A Mixed Reality healthcare app to rehabitilate arms of a concerned paitent using simple MR games that combine the real world context with AR.
 Submitted to DJxHack 2025.
 ## Full Gameplay
